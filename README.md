@@ -105,7 +105,5 @@ You can monitor the training process using TensorBoard:
 ```bash
 %tensorboard --logdir '/content/training/train'
 ```
-
----
-
-Feel free to modify this README file according to your specific requirements.
+# Final Model Checkpoints
+You can find the final model checkpoints for direct use [here](https://drive.google.com/drive/folders/1-UWR3I01jxbpb3NX1Hd1h2EBfn99FVj1?usp=drive_link)
