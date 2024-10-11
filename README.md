@@ -107,3 +107,7 @@ You can monitor the training process using TensorBoard:
 ```
 # Final Model Checkpoints
 You can find the final model checkpoints for direct use [here](https://drive.google.com/drive/folders/1-UWR3I01jxbpb3NX1Hd1h2EBfn99FVj1?usp=drive_link)
+
+# Research Publication
+
+[Delving Deep Into Nutriscan: Automated Nutrition Table Extraction and Ingredient Recognition](https://www.ijraset.com/best-journal/delving-deep-into-nutriscan-automated-nutrition-table-extraction-and-ingredient-recognition)
